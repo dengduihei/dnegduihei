@@ -1,0 +1,3 @@
+ String selector = null; 
+    boolean durable = false; 
+    boolean transactional = false; 
