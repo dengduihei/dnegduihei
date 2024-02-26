@@ -1,0 +1,3 @@
+    String jndiCtxFactory = null; 
+    String connFactory = null; 
+    String providerURL = null; 
