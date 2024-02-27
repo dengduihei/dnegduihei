@@ -1,0 +1,3 @@
+public class ContentManagerImpl implements ContentManager 
+{ 
+  public ContentInfo getContentInfo( 
