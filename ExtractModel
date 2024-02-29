@@ -1,0 +1,4 @@
+    public void ExtractModel(string projectId, string datasetId, string modelId, string destinationUri)
+    {
+        BigQueryClient client = BigQueryClient.Create(projectId);
+        BigQueryJob job = client.CreateModelExtractJob(
