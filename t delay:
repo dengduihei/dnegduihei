@@ -1,0 +1,11 @@
+        delay -= 1
+        if not delay:
+            delay = 100
+ 
+        pygame.display.flip()
+        clock.tick(60)
+ 
+if __name__ == "__main__":
+    try:
+        main()
+    except SystemExit:
