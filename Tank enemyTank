@@ -1,0 +1,7 @@
+    private Tank enemyTank;
+    private Random r;
+    private ImageIcon backGround;
+    private final String map;
+    private int tankMax;
+    private boolean over = false;
+    private static int selfMax =
