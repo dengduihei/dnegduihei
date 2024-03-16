@@ -1,0 +1,2 @@
+
+cv2.HOGDescriptor(win_size, block_size, block_stride, cell_size, nbin)
