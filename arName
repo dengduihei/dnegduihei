@@ -1,0 +1,5 @@
+<pfs>
+----------
+privatefinalstatic String $varName$  = "$var$";`
+==========
+<privateField>
